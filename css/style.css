@@ -1643,7 +1643,7 @@ header + header {
 .logo {
 	display: inline-block;
 	color: #ffffff;
-	font-size: 15px;
+	font-size: 12px;
 	font-family: Meiryo UI;
 	letter-spacing: 3.5px;
 	text-shadow: 
@@ -5090,7 +5090,7 @@ a .bg-light:focus, a .bg-light:hover, button .bg-light:focus, button .bg-light:h
 }
 
 .bg-dark {
-	background-color: #0c016e !important;
+	background-color: #c2c3c4 !important;
 }
 
 a .bg-dark:focus, a .bg-dark:hover, button .bg-dark:focus, button .bg-dark:hover {
