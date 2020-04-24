@@ -1570,15 +1570,15 @@ footer .flex-column .nav-link {
 }
 
 footer a {
-	color: #dcdcdc;
+	color: #565656;
 }
 
 footer a:hover {
-	color: #016e30;
+	color: #32f74c;
 }
 
 footer .active a {
-	color: #fff;
+	color: #262626;
 }
 
 header {
@@ -1591,15 +1591,15 @@ header p {
 }
 
 header .navbar-nav .nav-link {
-	color: #777;
+	color: #565656;
 }
 
 header .navbar-nav .nav-link:hover {
-	color: #329ef7;
+	color: #32f74c;
 }
 
 header .navbar-nav .active .nav-link {
-	color: #444444;
+	color: #262626;
 }
 
 header .navbar-toggler-icon {
